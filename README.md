@@ -14,19 +14,19 @@ Analyzing handwriting is a area of psychological study based on that one can do 
 
 ## FIVE IMPORTANT STEPS
 
-1 - Feature Extraction
-2 - EDA (Exploratory Data Analysis)
-3 - Machine Learning
-4 - API Using Flask
-5 - Mobile App Using React Native
+1 - Feature Extraction <br />
+2 - EDA (Exploratory Data Analysis) <br />
+3 - Machine Learning <br />
+4 - API Using Flask <br />
+5 - Mobile App Using React Native <br />
 
 ### CODE & FOLDERS
 
-/Feature - Code for extracting features
-/API/index.py - Code for the making request & response
-/App - Code for the mobile application
-/Archive - Files used in the EDA
-/EDA_Mini_Project.ipynb - Code for EDA & ML Model
+/Feature - Code for extracting features <br />
+/API/index.py - Code for the making request & response <br />
+/App - Code for the mobile application <br />
+/Archive - Files used in the EDA <br />
+/EDA_Mini_Project.ipynb - Code for EDA & ML Model <br />
 
 ### Installation Process
 
